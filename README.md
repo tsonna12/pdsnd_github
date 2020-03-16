@@ -9,10 +9,11 @@ In this project, I will explore data related to bike share systems for three maj
 
 ### Files used
 Required softwares:
-
+Make sure that python is install in your machine.
 Python A text editor, like Visual Studio Code, Atom or Sublime and a terminal application.
 
 ### Credits
 Credits goes to Udacity classroom that helped me alot to complete this project. I am so greatful for this opportunity.
+
 
 
